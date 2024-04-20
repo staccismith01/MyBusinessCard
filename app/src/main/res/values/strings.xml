@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Business Card</string>
+    <string name="txtTitle">Stacci Smith</string>
+    <string name="description">Profile Image</string>
+    <string name="bttnDetails">Details</string>
+    <string name="txtName">Stacci Smith</string>
+    <string name="txtItem1">Contact</string>
+    <string name="txtItem2">Florida State University</string>
+    <string name="txtItem3">iSchool</string>
+    <string name="txtItem4">sns20@fsu.edu</string>
+    <string name="txtItem5">(904)899-3437</string>
+    <string name="txtInterests">Interests</string>
+    <string name="txtItem6">Cybersecurity, Cisco Networking Fundamentals, MySQL, Website Design</string>
+</resources>
